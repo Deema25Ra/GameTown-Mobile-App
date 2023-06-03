@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/viewAll"
+        android:title="Home"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/rentedAll"
+        android:title="Rented games"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/manageMyGames"
+        android:title="Manage my games"
+        app:showAsAction="never"
+        />
+
+</menu>

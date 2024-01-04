@@ -1,4 +1,4 @@
-# Game Rental App
+# Game Rental App (GameTown)
 
 ## Problem
 
